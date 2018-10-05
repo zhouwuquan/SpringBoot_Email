@@ -1,0 +1,2 @@
+# SpringBoot_Email
+主要利用springboot搭建项目，以及使用springboot发送各个类型的邮件
